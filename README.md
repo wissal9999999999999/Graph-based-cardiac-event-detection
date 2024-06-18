@@ -1,5 +1,3 @@
-# Graph-based-cardiac-event-detection
-Related work and resources for graph-based characterization of cardiac events for early detection of heart failure
 # Graph-Based Cardiac Event Detection
 
 This repository contains related work and resources for the project on graph-based characterization of cardiac events for the early detection of heart failure.
