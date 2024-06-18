@@ -44,6 +44,8 @@ This folder contains tutorials and learning resources on various topics related 
 
 ### ECG Analysis
 
+### ECG Analysis
+
 1. **ECG Analysis with Python**
    - **Description:** A tutorial on how to analyze ECG signals using Python.
    - **Link:** [ECG Analysis with Python](https://www.kaggle.com/guillaume61880/ecg-analysis-using-wavelet-transform)
@@ -51,6 +53,31 @@ This folder contains tutorials and learning resources on various topics related 
 2. **ECG Signal Processing**
    - **Description:** A detailed guide on the processing and analysis of ECG signals.
    - **Link:** [ECG Signal Processing](https://physionet.org/tutorials/ecg-processing/)
+
+3. **ECG Heartbeat Categorization Dataset**
+   - **Description:** The ECG Heartbeat Categorization Dataset consists of two collections of heartbeat signals obtained from well-known datasets: the MIT-BIH Arrhythmia Dataset and the PTB Diagnostic ECG Database. This dataset is commonly used for heartbeat classification tasks and is suitable for training deep neural networks.
+   - **Link:** [ECG Heartbeat Categorization GitHub Repository](https://github.com/parsakhavarinejad/ECG_analysis)
+
+4. **How to Analyze an ECG with Python**
+   - **Description:** An article by Alejandro Ena on how to analyze ECG signals using Python, providing a detailed walkthrough and code examples.
+   - **Link:** [How to Analyze an ECG with Python](https://medium.com/@lalesena/how-to-analyze-ecgs-with-python-396e34ece937)
+
+5. **Working with ECG — Heart Rate data, on Python**
+   - **Description:** An introduction to working with heart rate data (ECG) on Python by Bartek Kulas.
+   - **Link:** [Working with ECG — Heart Rate data, on Python](https://bartek-kulas.medium.com/working-with-ecg-heart-rate-data-on-python-7a45fa880d48)
+
+6. **NeuroKit2 ECG Analysis**
+   - **Description:** Documentation on how to use NeuroKit2 to analyze ECG data.
+   - **Link:** [NeuroKit2 ECG Analysis](https://neuropsychology.github.io/NeuroKit/functions/ecg.html)
+
+7. **ECG Signal Processing in Python**
+   - **Description:** An article on how to process ECG signals in Python using LightningChart.
+   - **Link:** [ECG Signal Processing in Python](https://lightningchart.com/blog/python/ecg-signal-processing-in-python/)
+
+8. **Python Heart Rate Analysis Toolkit**
+   - **Description:** Documentation for the Python Heart Rate Analysis Toolkit, which provides tools to analyze heart rate data.
+   - **Link:** [Python Heart Rate Analysis Toolkit](https://python-heart-rate-analysis-toolkit.readthedocs.io/en/latest/)
+
 
 ## How to Use the Tutorials
 
