@@ -5,8 +5,7 @@ This folder contains tutorials and learning resources on various topics related 
 ## Folder Structure
 
 - `graph-signal-processing/`: Tutorials and resources on graph signal processing.
-- `machine-learning/`: Tutorials and resources on machine learning.
-- `deep-learning/`: Tutorials and resources on deep learning.
+- `graph-ml-gnns/`: Tutorials and resources on graph machine learning and graph neural networks.
 - `ecg-analysis/`: Tutorials and resources on ECG signal analysis.
 
 ## List of Tutorials
@@ -21,25 +20,15 @@ This folder contains tutorials and learning resources on various topics related 
    - **Description:** A tutorial on how to implement graph signal processing techniques using Python.
    - **Link:** [Graph Signal Processing with Python](https://github.com/mdeff/gsp)
 
-### Machine Learning
+### Graph Machine Learning and Graph Neural Networks
 
-1. **Machine Learning Basics**
-   - **Description:** An introductory guide to machine learning concepts and techniques.
-   - **Link:** [Machine Learning Basics](https://www.coursera.org/learn/machine-learning)
+1. **Graph-ML and GNNs Basics**
+   - **Description:** An introductory guide to graph machine learning and graph neural networks concepts and techniques.
+   - **Link:** [Graph-ML and GNNs Basics](https://www.coursera.org/learn/machine-learning)
 
-2. **Scikit-Learn Documentation**
-   - **Description:** Official documentation and tutorials for Scikit-Learn, a popular machine learning library in Python.
-   - **Link:** [Scikit-Learn Documentation](https://scikit-learn.org/stable/user_guide.html)
-
-### Deep Learning
-
-1. **Deep Learning Specialization**
-   - **Description:** A comprehensive course on deep learning by Andrew Ng on Coursera.
-   - **Link:** [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
-
-2. **TensorFlow Tutorials**
-   - **Description:** Official TensorFlow tutorials and guides.
-   - **Link:** [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+2. **PyTorch-Geometric Documentation**
+   - **Description:** Official documentation and tutorials for PyTorch Geometric, a popular deep learning library in Python.
+   - **Link:** [PyTorch-Geometric Documentation](https://pytorch-geometric.readthedocs.io/)
 
 ### ECG Analysis
 
@@ -55,3 +44,4 @@ This folder contains tutorials and learning resources on various topics related 
 
 - Each tutorial is linked to its source, where you can access the full content.
 - Follow the instructions provided in each tutorial to learn and implement the techniques.
+
