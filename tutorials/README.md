@@ -41,9 +41,6 @@ This folder contains tutorials and learning resources on various topics related 
    - **Description:** A tutorial on how to implement graph signal processing techniques using Python.
    - **Link:** [Graph Signal Processing with Python](https://github.com/mdeff/gsp)
      
-
-### ECG Analysis
-
 ### ECG Analysis
 
 1. **ECG Analysis with Python**
