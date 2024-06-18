@@ -5,7 +5,7 @@ This folder contains tutorials and learning resources on various topics related 
 ## Folder Structure
 
 - `graph-ml-gnns/`: Tutorials and resources on graph machine learning and graph neural networks.
-- - `graph-signal-processing/`: Tutorials and resources on graph signal processing.
+- `graph-signal-processing/`: Tutorials and resources on graph signal processing.
 - `ecg-analysis/`: Tutorials and resources on ECG signal analysis.
 
 ## List of Tutorials
