@@ -33,7 +33,7 @@ This folder contains tutorials and learning resources on various topics related 
 
 1. **Introduction to Graph Signal Processing**
    - **Description:** A beginner-friendly guide to understanding the basics of graph signal processing.
-   - **Link:** [Introduction to Graph Signal Processing](https://arxiv.org/pdf/2002.12321.pdf)
+   - **Link:** [Introduction to Graph Signal Processing](https://www.researchgate.net/publication/329350163_Introduction_to_Graph_Signal_Processing)
 
 2. **Graph Signal Processing with Python**
    - **Description:** The PyGSP is a Python package to ease Signal Processing on Graphs. It provides a wide variety of operations on graphs, like computing their Fourier basis, filtering or interpolating signals, and plotting graphs, signals, and filters.
