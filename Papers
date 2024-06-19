@@ -1,9 +1,0 @@
-# Papers
-
-This folder contains research papers related to graph signal processing, machine learning, deep learning, and ECG analysis.
-
-## Folder Structure
-
-- `graph-signal-processing/`: Research papers on graph signal processing.
-- `graph-ml-gnns/`: Research papers on graph ML and GNNs.
-- `ecg-analysis/`: Research papers on ECG signal analysis.
