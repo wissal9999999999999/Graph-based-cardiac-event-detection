@@ -2,13 +2,6 @@
 
 This folder contains personal notes, observations, and other relevant information related to the research project on graph signal processing, machine learning, deep learning, and ECG analysis.
 
-## Folder Structure
-
-- `meeting-notes/`: Notes from meetings and discussions.
-- `literature-review/`: Notes and summaries of literature reviewed.
-- `project-ideas/`: Brainstorming and ideas for future projects.
-- `experiment-notes/`: Observations and notes from experiments and implementations.
-
 ## Important Reads
 
 ### Graph Representation Learning
